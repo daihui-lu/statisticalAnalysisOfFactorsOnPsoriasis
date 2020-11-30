@@ -1,0 +1,68 @@
+SDDSRVYR: survey year
+RIAGENDR: gender
+	1: male
+	2: female
+	.: missing
+RIDAGEYR: age in years at screening
+	0-79: range of values
+	80: 80 years of age or older
+	. : missing
+RIDRETH3: race/hispanic origin w/ NH Asian
+	1: mexican american
+	2: other hispanic
+	3: non-hispanic white
+	4: non-hispanic black
+	6: non-hispanic asian
+	7: other race - including multi-racial
+	.: missing
+DMDBORN : country of birth
+	1: born in 50 US states or WashingtonDC
+	2: others
+	77: refused
+	99: don't know
+	.: missing
+DMDCITZN: citizenship status
+	1: citizen by birth or naturalization
+	2: not a citizen of the us
+	7: refused
+	9: don't know
+	.: missing
+INDFMPIR: ratio of family income to poverty
+	0-4.99: range of values
+	5: value greater than or equal to 5.00
+	.: missing
+ALQ120Q: How often drink alcohol over past 12 months
+	0-350: range of values
+	777: refused
+	999: don't know
+	.: missing
+BMXBMI: Body measures (kg/m**2)
+	range of values
+	.: missing
+BPQ020: Ever told you had high blood pressure
+	1: Yes
+	2: No
+	7: Refused
+	9: Don't know
+	.: missing
+DIQ010: Doctor told you have diabetes
+	1: Yes
+	2: No
+	3: Borderline
+	7: Refused
+	9: don't know
+	.: missing
+MCQ075: Degree of psoriasis
+	1: little or no psoriasis
+	2: only a few patches
+	3: scattered patches
+	4: extensive psoriasis
+	7: refused
+	9: don't know
+	.: missing
+SMQ020: Smoked at least 100 cigarettes in life
+	1: Yes
+	2: No
+	7: Refused
+	9: Don't know
+	.: Missing
